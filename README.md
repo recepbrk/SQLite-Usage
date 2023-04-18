@@ -4,15 +4,19 @@
 
 
 
- # I did this project to improve my Android programming skills.
+  I did this project to improve my Android programming skills.
 
 
+## Used technologies
 
-## Özellikler
 
-- Açık/koyu mod geçişi
-- Canlı ön izleme
-- Tam ekran modu
-- Tüm platformlara destek
+- ROOM Database
+- MVVM
+- AndroidViewModel
+- ViewBinding
+- Recyclerview
+- Floating Action Button 
+- Cardview
+- Searchview
 
   
