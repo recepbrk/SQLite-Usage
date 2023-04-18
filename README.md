@@ -1,3 +1,4 @@
 # SQLite-Usage
 
-https://user-images.githubusercontent.com/73459365/232911112-9cc381fe-5a0d-4c70-9f1b-5e357596791f.gif
+![Adsız tasarım](https://user-images.githubusercontent.com/73459365/232911885-a4d3088f-df86-48a9-a5cc-5e0ed77def86.jpg)
+
