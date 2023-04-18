@@ -1,3 +1,4 @@
 # SQLite-Usage
 
-https://user-images.githubusercontent.com/73459365/232910976-5fb2ff9c-a58e-4e70-af97-a5d0ceb59d93.mp4
+
+![White Minimal with Textured Background NFT Twitter Header](https://user-images.githubusercontent.com/73459365/232911112-9cc381fe-5a0d-4c70-9f1b-5e357596791f.gif)
