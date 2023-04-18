@@ -19,4 +19,11 @@
 - Cardview
 - Searchview
 
+
+
+## Yazarlar ve Teşekkür
+
+- [@Video Link](https://www.youtube.com/watch?v=8_u4EOYShgo&t=6121s&ab_channel=Foxandroid) tasarım ve geliştirme için.
+
+
   
